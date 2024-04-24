@@ -3,30 +3,16 @@
     {
       "id": "0dda",
       "image": "https://danielhazard.netlify.app/assets/HomePage/carousel-img_4.jpg",
-      "description": "asd",
-      "first_price": "asd",
-      "second_price": "asd"
+      "description": "Meduw",
+      "first_price": "1000",
+      "second_price": "500"
     },
     {
       "id": "393d",
       "image": "https://danielhazard.netlify.app/assets/HomePage/carousel-img_4.jpg",
-      "description": "фыв",
-      "first_price": "фы",
-      "second_price": "222"
-    },
-    {
-      "id": "d8f4",
-      "image": "https://danielhazard.netlify.app/assets/HomePage/carousel-img_4.jpg",
-      "description": "фыв",
-      "first_price": "ццц",
-      "second_price": "11111"
-    },
-    {
-      "id": "34f4",
-      "image": "https://danielhazard.netlify.app/assets/HomePage/carousel-img_2.jpg",
-      "description": "Костюм",
-      "first_price": "22",
-      "second_price": "111"
+      "description": "Torpeduwasda",
+      "first_price": "2225000",
+      "second_price": "2500222"
     }
   ]
 }
